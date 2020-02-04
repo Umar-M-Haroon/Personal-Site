@@ -3,22 +3,23 @@ import twitter from './Logos/Twitter.svg';
 import github from './Logos/github.svg';
 import linkedIn from './Logos/LI-In-Bug.png';
 import finale from './Logos/finale.png';
+import myself from './Logos/myself.png';
 import harbor from './Logos/harbor.png';
 import homely from './Logos/homely.png';
-import resume from './Logos/Umar-Haroon Resume';
 import './App.css';
 
 const App = () => {
   return (
     <div className="App-header">
+      <img src={myself} alt="Umar Haroon" className="myself"></img>
       <h1>
         Umar Haroon
         </h1>
       <p>I’m a student at CU Boulder and an iOS developer</p>
       <div className="logoLinks">
-        <img src={twitter} className="App-logo" alt="logo" />
-        <img src={github} className="App-logo" alt="logo" />
-        <img src={linkedIn} className="App-logo" alt="logo" />
+        <a href="https://twitter.com/Umar_Haroon"><img src={twitter} className="App-logo" alt="logo" /></a>
+        <a href="https://github.com/Umar-M-Haroon"><img src={github} className="App-logo" alt="logo" /></a>
+        <a href="https://linkedin.com/in/Umar-haroon"><img src={linkedIn} className="App-logo" alt="logo" /></a>
       </div>
       <h3>
         My Work
@@ -37,7 +38,7 @@ const App = () => {
           <a href="https://finale.komodollc.com" className="App-link">Finale</a>
         </div>
       </div>
-      <a href={resume}><h3>Resume</h3></a>
+      <p className="Resume">Download my resume<a href="https://drive.google.com/file/d/1137R8Rw4RRzHPTZ1MZq5zTGGAQ34tpRh/view?usp=sharing" className="App-link"> here</a></p>
     </div>
   );
 }

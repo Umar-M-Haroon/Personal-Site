@@ -22,6 +22,7 @@
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
 }
 
 .App-Preview{
@@ -37,4 +38,12 @@
   display: flex;
   justify-content: space-evenly;
   flex-direction: row;
+}
+.myself{
+  aspect-ratio: 1;
+  height: 20rem;
+  border-radius: 50%;
+}
+.Resume{
+  margin: 60px;
 }
