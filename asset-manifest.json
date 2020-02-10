@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1679acd2.chunk.css",
+    "main.css": "/static/css/main.7e1cb558.chunk.css",
     "main.js": "/static/js/main.71ad9298.chunk.js",
     "main.js.map": "/static/js/main.71ad9298.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7069b67.js",
@@ -8,9 +8,9 @@
     "static/js/2.010f8bec.chunk.js": "/static/js/2.010f8bec.chunk.js",
     "static/js/2.010f8bec.chunk.js.map": "/static/js/2.010f8bec.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91e840c0faaa6f7726b84d415e697b41.js": "/precache-manifest.91e840c0faaa6f7726b84d415e697b41.js",
+    "precache-manifest.12d9eaf43828bc154bf93280cc5a1281.js": "/precache-manifest.12d9eaf43828bc154bf93280cc5a1281.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1679acd2.chunk.css.map": "/static/css/main.1679acd2.chunk.css.map",
+    "static/css/main.7e1cb558.chunk.css.map": "/static/css/main.7e1cb558.chunk.css.map",
     "static/js/2.010f8bec.chunk.js.LICENSE.txt": "/static/js/2.010f8bec.chunk.js.LICENSE.txt",
     "static/media/Twitter.svg": "/static/media/Twitter.14579112.svg",
     "static/media/finale.png": "/static/media/finale.e91e5976.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.f7069b67.js",
     "static/js/2.010f8bec.chunk.js",
-    "static/css/main.1679acd2.chunk.css",
+    "static/css/main.7e1cb558.chunk.css",
     "static/js/main.71ad9298.chunk.js"
   ]
 }
