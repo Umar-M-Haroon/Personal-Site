@@ -38,7 +38,7 @@ const App = () => {
           <a href="https://finale.komodollc.com" className="App-link">Finale</a>
         </div>
       </div>
-      <p className="Resume">Download my resume<a href="https://drive.google.com/file/d/1137R8Rw4RRzHPTZ1MZq5zTGGAQ34tpRh/view?usp=sharing" className="App-link"> here</a></p>
+      <p className="Resume">Download my resume<a href="https://drive.google.com/open?id=1jiliPprVCUKxMmWsi6Zh3_D26vt_DFig" className="App-link"> here</a></p>
     </div>
   );
 }
