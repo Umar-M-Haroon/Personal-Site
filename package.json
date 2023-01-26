@@ -1,0 +1,24 @@
+{
+  "name": "umar-haroon-website",
+  "version": "1.0.0",
+  "description": "### Deploy with Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umar-M-Haroon/Personal-Site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umar-M-Haroon/Personal-Site/issues"
+  },
+  "homepage": "https://github.com/Umar-M-Haroon/Personal-Site#readme",
+  "dependencies": {
+    "hugo": "^0.0.3",
+    "hugo-lunr": "^0.0.4"
+  }
+}

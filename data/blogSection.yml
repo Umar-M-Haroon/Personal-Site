@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Articles
+
+  I'm starting blog about iOS development and some of my flying adventures
+
+buttonTarget: blog

@@ -1,0 +1,39 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  I have experience working with iOS development across a variety of frameworks and languages. I started with Objective-C, but transitioned to Swift and use SwiftUI, UIKit, and ARKit/RealityKit in my day-to-day work.
+# button1Name: Contact
+tab1Name: Experiences
+tab1Target: experience
+tab2Name: Education
+tab2Target: education
+
+education:
+  - content: >
+      #### iOS Software Engineer | Charter Communications
+      Building and maintaining the Spectrum News and Spectrum SportsNet iOS apps, while leading new features such as the "Voter Guide", "Politics Hub", along with displaying region-tailored messages. 
+
+    time: 2022-Present
+  - content: >
+      #### Software Engineer Intern | Leidos
+
+      Build and maintain back-end data solution for an end-to-end analytical Supply Chain web application to track inventory and transportation from Suppliers to Stores for international markets
+    time: 2020-2021
+  - content: >
+      #### iOS Software Engineer | ReportsNow
+
+      Delivered analytical projects to provide data democratization to the healthcare account IT service team. Designed and distributed ~50 operations and financial KPI reports to executives and leadership team
+    time: 2017
+
+experience:
+  
+  - content: >
+      #### University of Colorado Boulder
+      Boulder, CO
+    time: 2017-2021
+
+
+# buttonTarget: resume

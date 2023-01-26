@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Software Engineer | Private Pilot
+content: >
+  # Hi, I'm **Umar**!
+
+  I'm an iOS Developer working in Denver, CO   
+button1Name: My Blog
+button1URL: blog
+button2Name: Download Resume
+button2URL: https://docs.google.com/document/d/1K9c0x3NtDpnpqBD3zZbj2TUrRcBU0iQ_CCq8IbqnbmI/edit?usp=sharing
+image: images/about/myself.JPG
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: images/hero/signatureupdate.gif
