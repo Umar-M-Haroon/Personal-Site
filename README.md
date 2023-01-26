@@ -1,4 +1,4 @@
-## anhcodes.dev Blog
+## Umarharoon.com Blog
 
 ### Deploy with Firebase
 
