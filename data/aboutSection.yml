@@ -11,3 +11,5 @@ content: >
 image: images/about/meandmom.JPG
 button1Name: Blog
 button1Target: blog
+button2Name: Resume
+button2Target: https://docs.google.com/document/d/1K9c0x3NtDpnpqBD3zZbj2TUrRcBU0iQ_CCq8IbqnbmI/edit?usp=sharing
