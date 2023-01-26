@@ -14,18 +14,19 @@ tab2Target: education
 education:
   - content: >
       #### iOS Software Engineer | Charter Communications
+      
       Building and maintaining the Spectrum News and Spectrum SportsNet iOS apps, while leading new features such as the "Voter Guide", "Politics Hub", along with displaying region-tailored messages. 
 
     time: 2022-Present
   - content: >
       #### Software Engineer Intern | Leidos
 
-      Build and maintain back-end data solution for an end-to-end analytical Supply Chain web application to track inventory and transportation from Suppliers to Stores for international markets
+      Develop a SQL-PostGIS backend to support large maps with 200000+ geometries while leading the communication amongst the interns and managers. Also developed C++ and python CLI tools to interact with the backend
     time: 2020-2021
   - content: >
       #### iOS Software Engineer | ReportsNow
 
-      Delivered analytical projects to provide data democratization to the healthcare account IT service team. Designed and distributed ~50 operations and financial KPI reports to executives and leadership team
+      Delivered an iOS prototype using native Objective-C and cross platform Xamarin tooling to display an analytics dashboard of the sales data
     time: 2017
 
 experience:
